@@ -10,7 +10,3 @@ def run_guessing_game
   else
     puts "Sorry! The computer guessed #{computer_guess}."
 end
-
-
-Sorry! The computer guessed <number>.
-It the user's input is equal to "exit": Goodbye!
